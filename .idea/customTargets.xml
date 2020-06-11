@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="a1b6cb88-cdc3-4e15-a666-d0795e69cc0b" name="test_simulator" projectName="DroneSim">
+      <configuration id="4e08cace-eed2-43bf-ab78-084677981b69" name="test_simulator">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make_sim" />
+        </build>
+      </configuration>
+    </target>
+    <target id="8ad7924c-f3dc-476e-842b-5e0522de8db1" name="Unnamed" projectName="DroneSim">
+      <configuration id="e8c3e68b-550b-43fe-b8dd-772d8f543cf9" name="Unnamed" />
+    </target>
+  </component>
+</project>
